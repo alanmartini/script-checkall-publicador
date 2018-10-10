@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         Add buttom to check all publicador
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Adiciona um botao para executar chamadas ajax que abilita todos os conteudos do publicador
 // @author       Alan Martini
 // @match        */publicador/*
